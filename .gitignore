@@ -1,0 +1,5 @@
+# .env
+
+# Hemos comentado .env para poder subirlo y puedes tenerlo como referencia, pero esto no deberia hacerse
+
+.venv/
